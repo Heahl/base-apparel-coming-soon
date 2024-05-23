@@ -41,7 +41,7 @@ export default function Home() {
             height={50}
           />
         </div>
-        <div className="z-5 flex h-screen flex-grow-0 flex-col items-center overflow-auto md:w-full md:items-start md:justify-center md:pl-16 lg:pl-40">
+        <div className="z-5 flex h-screen flex-grow-0 flex-col items-center overflow-auto md:w-full md:items-start md:justify-center md:pl-16 md:pr-10 lg:pl-40">
           <Image
             className="mt-28 block w-full md:hidden"
             src="/images/hero-mobile.jpg"
